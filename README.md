@@ -1,9 +1,9 @@
 # infoStoragePhp
 The html that goes with this is:
 
-<form method="POST" action="saveFile.php">
+<form mehod="POST" action="saveFile.php">
   <input name="username">
-  <button type="submit">Sign Up</button>
+  <button type="submit"></button>
 </form>
 
 Then put the two files in the same folder and make sure to run it on your domain or localhost because the PHP might not work on local files.
