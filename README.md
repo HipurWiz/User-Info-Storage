@@ -1,5 +1,6 @@
 # infoStoragePhp
 The html that goes with this is:
+
 <form method="POST" action="saveFile.php">
   <input name="username">
   <button type="submit">Sign Up</button>
