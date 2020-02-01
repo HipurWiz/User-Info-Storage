@@ -1,5 +1,7 @@
 # infoStoragePhp
-The html that goes with this is:
+Click "Raw" to see the HTML
+
+The HTML that goes with this is:
 
 <form mehod="POST" action="saveFile.php">
   <input name="username">
