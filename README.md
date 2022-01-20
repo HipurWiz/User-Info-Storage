@@ -1,1 +1,1 @@
-Literally just creates a user and stores data the easy way
+Uses the local filesystem to store information on a user.
